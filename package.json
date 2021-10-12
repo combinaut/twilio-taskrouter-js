@@ -1,0 +1,14 @@
+{
+  "name": "@combinaut/twilio-taskrouter",
+  "version": "1.21.0",
+  "description": "Twilio Taskrouter client JS packaged for npm",
+  "main": "taskrouter.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/combinaut/twilio-taskrouter-js"
+  },
+  "keywords": [
+    "twilio",
+    "taskrouter"
+  ]
+}
